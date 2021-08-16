@@ -173,6 +173,13 @@ export const tokenList: TokenInfo[] = [
     sinceBlock: 7726894,
   },
   {
+    name: 'Gemini dollar',
+    symbol: 'GUSD',
+    address: '0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd',
+    decimals: 2,
+    sinceBlock: 6301780,
+  },
+  {
     name: 'Gnosis Token',
     symbol: 'GNO',
     address: '0x6810e776880C02933D47DB1b9fc05908e5386b96',
@@ -334,6 +341,13 @@ export const tokenList: TokenInfo[] = [
     sinceBlock: 4827494,
   },
   {
+    name: 'STASIS EURS Token',
+    symbol: 'EURS',
+    address: '0xdB25f211AB05b1c97D595516F45794528a807ad8',
+    decimals: 2,
+    sinceBlock: 5835251,
+  },
+  {
     name: 'SPANK',
     symbol: 'SPANK',
     address: '0x42d6622deCe394b54999Fbd73D108123806f6a18',
@@ -423,6 +437,20 @@ export const tokenList: TokenInfo[] = [
     address: '0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6',
     decimals: 18,
     sinceBlock: 11305469,
+  },
+  {
+    name: 'zkTube',
+    symbol: 'ZKT',
+    address: '0x07c52c2537D84e532a9F15d32E152C8B94D2b232',
+    decimals: 18,
+    sinceBlock: 13112494,
+  },
+  {
+    name: 'zkTube Ring',
+    symbol: 'ZKTR',
+    address: '0xC53d46Fd66edeB5d6F36e53BA22eee4647e2Cdb2',
+    decimals: 18,
+    sinceBlock: 12381826,
   },
 ]
 

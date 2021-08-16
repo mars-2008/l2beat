@@ -16,6 +16,7 @@ import { sorare } from './sorare'
 import { Project } from './types'
 import { zkswap } from './zkswap'
 import { zksync } from './zksync'
+import { zktube } from './zktube'
 
 export * from './types'
 
@@ -37,4 +38,5 @@ export const projects: Project[] = [
   sorare,
   zkswap,
   zksync,
+  zktube,
 ]
