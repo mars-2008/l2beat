@@ -16,6 +16,7 @@ import { Project } from './types'
 import { zkswap } from './zkswap'
 import { zkswapv2 } from './zkswapv2'
 import { zksync } from './zksync'
+import { zktube } from './zktube'
 
 export * from './types'
 
@@ -37,4 +38,5 @@ export const projects: Project[] = [
   zkswap,
   zkswapv2,
   zksync,
+  zktube,
 ]
